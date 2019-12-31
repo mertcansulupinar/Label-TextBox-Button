@@ -1,7 +1,7 @@
 <h1>Label-TextBox-Button</h1>
 Label TextBox Button usage
 <br></br>
-I created a simple captcha, it's so basic but if you want learn new things, you repeat many times so i choose this method; 
+I created a simple app for learn label-textbox-button usage, it's so basic but if you want learn new things, you repeat many times so i choose this method; 
 <strong>when I learn something new, I'll share it with more people because the information is beautiful as you share it :)</strong>
 
 <h1>I used</h1>
